@@ -1,6 +1,6 @@
 # [ARCHIVED: READ MORE](https://github.com/eggheadio-github/stack-overflow-copy-paste/issues/257)
 
-# https://github.com/ghnew/stack-overflow-copy-paste.git
+# https://github.com/ghnew/stack_overflow_copy_paste.git
 
 # stack-overflow-copy-paste
 
